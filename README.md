@@ -4,7 +4,6 @@
 
 ---
 
-| **** | |
 | :--- | :--- |
 | **Project Name** | **INDRA** |
 | **Track** | Pattern Analysis & Predictive Governance |
